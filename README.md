@@ -4,7 +4,7 @@
  
 🌱 I’m currently learning:
 * Languages: C/C++, C#, Golang, Python
-* Game Engines: Unity, Unreal Engine, GM2, Godot.
+* Game Engines: Unity, Unreal Engine, Godot.
 * Art: pixel art
        
 💞️ I’m looking to collaborate on game projects as a game planner/game designer.
