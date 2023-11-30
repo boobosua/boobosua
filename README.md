@@ -3,9 +3,9 @@
 👀 I’m interested in game development and game design, especially in pixel art games.
  
 🌱 I’m currently learning:
-* Programming Language: C/C++, C#, Python, Rust, Lua, Golang, React-native
-* Game Engine: Unity, Godot, Unreal Engine, Bevy, Defold
-* Game Framework: PyGame, Raylib
+* Programming Language: C/C++, C#, Python
+* Game Engine: Unity, Godot, Unreal Engine
+* Game Framework: PyGame
 * Design: Aseprite, Procreate, Pixaki 4
        
 💞️ I’m looking to collaborate on game projects as a game planner or game designer.
